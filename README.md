@@ -18,7 +18,7 @@ All versions check for blocking a three in a row or creating a 4 in a row with o
 
 ### `AI_v1.py`
 
-This version simulates 200 random games for each move it can make. All moves after the bots first move are completely random. The bot then chooses the move with the highest win ratio.
+A simple Monte Carlo simulation. This version simulates 200 random games for each move it can make. All moves after the bots first move are completely random. The bot then chooses the move with the highest win ratio.
 
 Not bad, but cannot consistently beat even an unexperienced player. May be an effective approach for simplier games. 
 
